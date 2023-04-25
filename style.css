@@ -95,13 +95,13 @@ header #menu {
   font-weight: 200;
 }
 .home .home-slider .slide1 {
-  background: url(/img/slideshow-9.jpg);
+  background: url(slideshow-9.jpg);
 }
 .home .home-slider .slide2 {
-  background: url(/img/slideshow-11.jpg);
+  background: url(slideshow-11.jpg);
 }
 .home .home-slider .slide3 {
-  background: url(/img/slideshow-8.jpg);
+  background: url(slideshow-8.jpg);
 }
 .home .home-slider .slide1,
 .home .home-slider .slide2,
@@ -217,7 +217,7 @@ section {
 /* welcome style ends here */
 /* our-menu style start */
 .our-menu {
-  background: url(/img/our-menu-bg-1.png) left top no-repeat, url(/img/our-menu-bg-3.jpg);
+  background: url(our-menu-bg-1.png) left top no-repeat, url(our-menu-bg-3.jpg);
   padding: 5rem 10rem;
 }
 .our-menu .menu-container {
@@ -343,7 +343,7 @@ section {
 }
 .reservation .image {
   width: 55%;
-  background: url(/img/book-a-table.jpg);
+  background: url(book-a-table.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
